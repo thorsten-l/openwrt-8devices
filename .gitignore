@@ -1,3 +1,4 @@
+/.subversion
 *.o
 .DS_Store
 .*.swp
